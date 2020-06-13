@@ -28,7 +28,7 @@ Disk Clean Up > Windows update Cleanup
 Ref: https://www.laptopmag.com/articles/clean-winsxs-folder-to-save-space
 
 # LaTeX Tips
-> To number equation within subsection. Requieres amsmath package
+To number equation within subsection. Requieres amsmath package
 	\usepackage{amsmath}
 	\numberwithin{equation}{subsection}
 
