@@ -1,3 +1,17 @@
+الصَّلاةُ وَالسَّلامُ عَلَيْكَ يَا رَسُولَ اللهِ# 
+
+ اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَۙ
+ نَحْمَدُہُ وَ نُصَلّیِ عَلٰی رَسُولِہِ الْکَرِیْمْ اَمّا بَعْدْ
+
+# اشعار
+
+کیا فکر کی جولانی کیا عرض ہنر مندی 
+توصیف پیمبرﷺ ہے توفیق خداوندی 
+
+#Fonts
+urdu font https://www.google.com/get/noto/#kufi-arab
+
+
 # Reclaim Disk Space
 Tips and Notes
 
@@ -130,3 +144,14 @@ PX85
 H-83A
 ISD1760
 ISD1820
+
+#Physics
+### Research: Why Moving Bicycle is stable?
+https://physics.stackexchange.com/questions/506/why-doesnt-a-bike-bicycle-fall-if-going-with-a-high-speed
+
+http://ruina.tam.cornell.edu/
+
+https://physics.stackexchange.com/questions/24/does-leaning-banking-help-cause-turning-on-a-bicycle/524#524
+
+https://ezramagazine.cornell.edu/SUMMER11/ResearchSpotlight.html
+
