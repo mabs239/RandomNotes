@@ -15,9 +15,6 @@ Disk Clean Up > Windows update Cleanup
 Ref: https://www.laptopmag.com/articles/clean-winsxs-folder-to-save-space
 
 ## LaTeX Tips
-
-Latex Tips
-====================================
 To number equation within subsection. Requieres amsmath package
 \usepackage{amsmath}
 \numberwithin{equation}{subsection}
@@ -95,3 +92,8 @@ stringspaces=false,
 \usepackage[numbered,framed]{matlab-prettifier}
 \begin{lstlisting}[style=Matlab-editor,basicstyle=\mlttfamily]
 \end{lstlisting}
+
+## Excel Tips
+Change product of two base 60 (1 through 59) to ABJD words in excel. Both place value 1 and place value 60 words returned with a space inbetween.
+LOOKUP(INT(INT((C$2*$A4)/60)/10)*10,{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"})& LOOKUP(MOD(INT((C$2*$A4)/60),10),{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"}) &CHAR(10)&"    "& LOOKUP(INT(MOD(C$2*$A4,60)/10)*10,{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"})& LOOKUP(MOD(MOD(C$2*$A4,60),10),{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"})
+
