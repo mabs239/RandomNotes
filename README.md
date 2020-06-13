@@ -14,7 +14,9 @@
 **Urdu Font** https://www.google.com/get/noto/#kufi-arab
 
 # Computer/Mobile Tips
-[Mark Down Cheat Sheet](https://www.markdownguide.org/basic-syntax/)
+*Mark Down Cheat Sheet*
+- https://www.markdownguide.org/basic-syntax/
+- https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts
 ### Save 4GB of Hibernate state data
 Turn off the hibernate mode
 save space: hiberfil.sys stored in 4GB file
