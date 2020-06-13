@@ -26,8 +26,8 @@ Ref: https://www.laptopmag.com/articles/clean-winsxs-folder-to-save-space
 
 # LaTeX Tips
 To number equation within subsection. Requieres amsmath package
-'\usepackage{amsmath}
-\numberwithin{equation}{subsection}'
+`\usepackage{amsmath}
+\numberwithin{equation}{subsection}`
 
 Set section counter to 10
 \setcounter{section}{10}
