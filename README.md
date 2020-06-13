@@ -109,3 +109,9 @@ https://fromthepage.com/bldigital/arabic-scientific-manuscripts/delhi-arabic-190
 Qatar Digital Library
 
 https://www.qdl.qa/en/search/site/ptolemy?page=2&f%255B0%255D=document_source%3Aarchive_source&retain-filters=1
+
+http://kolkotob.blogspot.com/2015/01/1540.html?m=0
+
+https://archive.org/search.php?query=makhtouta
+
+https://issuu.com/murshidgee/docs/israr_e_najoom
