@@ -97,3 +97,15 @@ stringspaces=false,
 Change product of two base 60 (1 through 59) to ABJD words in excel. Both place value 1 and place value 60 words returned with a space inbetween.
 LOOKUP(INT(INT((C$2*$A4)/60)/10)*10,{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"})& LOOKUP(MOD(INT((C$2*$A4)/60),10),{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"}) &CHAR(10)&"    "& LOOKUP(INT(MOD(C$2*$A4,60)/10)*10,{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"})& LOOKUP(MOD(MOD(C$2*$A4,60),10),{0,1,2,3,4,5,6,7,8,9,10,20,30,40,50},{"","ا","ب","ج","د","ہ","و","ز","ح","ط","ی","ک","ل","م","ن"})
 
+## Online Resources
+تاب المجسطي Ptolemy بطلميوس
+
+https://fromthepage.com/bldigital/arabic-scientific-manuscripts/add-ms-7474-6308f07e-5248-4584-aa5b-372430968cb6/display/54909
+
+الدر الثمين في شرح أرجوزة ابن الياسمين
+
+https://fromthepage.com/bldigital/arabic-scientific-manuscripts/delhi-arabic-1901/display/53453
+
+Qatar Digital Library
+
+https://www.qdl.qa/en/search/site/ptolemy?page=2&f%255B0%255D=document_source%3Aarchive_source&retain-filters=1
