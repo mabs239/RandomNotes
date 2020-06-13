@@ -130,19 +130,17 @@ https://issuu.com/murshidgee/docs/israr_e_najoom
 https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%81%D9%84%D9%83_%D9%81%D9%8A_%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9
 
 
-#Electronics Circuits and Chips
-Projct Sound Chips
-====================
+# Electronics Circuits and Chips
 6pcs 6 Kinds Sound Chip Voice Module Music IC Alarm/Recordable Sound/Dog Barking/Chinese Music/Christmas Song for DIY Toy Gift
 Sound Module for Electronic Toy IC Chip Voice Recorder 120s 120secs Recording Playback Talking Music Audio Recordable Board Gift
 6secs 6S Sound Voice Audio Recordable Recorder Module Chip Programmable ISD1806B-COB Board 0.5W Speaker For Greeting Card
 5Pcs H-83A 12 kind of songs sound music ic voice chip module music circuit board | eBay
-PX85
-H-83A
-ISD1760
-ISD1820
+- PX85
+- H-83A
+- ISD1760
+- ISD1820
 
-#Physics
+# Physics
 ### Research: Why Moving Bicycle is stable?
 https://physics.stackexchange.com/questions/506/why-doesnt-a-bike-bicycle-fall-if-going-with-a-high-speed
 
