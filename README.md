@@ -8,18 +8,19 @@
 کیا فکر کی جولانی کیا عرض ہنر مندی 
 توصیف پیمبرﷺ ہے توفیق خداوندی 
 
-#Fonts
-urdu font https://www.google.com/get/noto/#kufi-arab
+# Fonts
+
+**Urdu Font** https://www.google.com/get/noto/#kufi-arab
 
 # Computer/Mobile Tips
 [Mark Down Cheat Sheet](https://www.markdownguide.org/basic-syntax/)
-## Save 4GB of Hibernate state data
+### Save 4GB of Hibernate state data
 Turn off the hibernate mode
 save space: hiberfil.sys stored in 4GB file
 powercfg -h off
 Ref: https://www.howtogeek.com/howto/15140/what-is-hiberfil.sys-and-how-do-i-delete-it/
 
-## WinSXS
+### WinSXS
 Disk Clean Up > Windows update Cleanup 
 Ref: https://www.laptopmag.com/articles/clean-winsxs-folder-to-save-space
 
