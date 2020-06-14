@@ -27,6 +27,9 @@ Ref: https://www.howtogeek.com/howto/15140/what-is-hiberfil.sys-and-how-do-i-del
 Disk Clean Up > Windows update Cleanup 
 Ref: https://www.laptopmag.com/articles/clean-winsxs-folder-to-save-space
 
+### Animate Table Enteries in Microsoft Powerpoint
+https://support.microsoft.com/en-us/office/i-want-to-animate-individual-cells-rows-or-columns-in-my-table-a161e49c-3801-4385-95b4-de84253593d1
+
 # LaTeX Tips
 To number equation within subsection. Requieres amsmath package
 	\usepackage{amsmath}
