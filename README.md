@@ -1,11 +1,11 @@
-~~~
+~~
 \begin{equation}\label{eq:recursive}
     P_{VPAPM} = \left\{\begin{array}{cc}
     \sqrt{\frac{2M^2}{B_I \log_2(2M)}} & 0\leq B_I <0  \\
 	\sqrt{\frac{2M^2}{(1-B_I) \log_2(2M)}} & 0.5 \leq B_I <1
 \end{array}   \right..
 \end{equation}
-~~~
+~~
 
 # الصَّلاةُ وَالسَّلامُ عَلَيْكَ يَا رَسُولَ اللهِ
 
